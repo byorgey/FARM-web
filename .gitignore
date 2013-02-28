@@ -1,0 +1,15 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+*~
+dist_*
+.hsenv_*
+TAGS
+_cache
+_site
+site
+*.xcf
