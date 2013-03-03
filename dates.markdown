@@ -8,4 +8,4 @@ title: Important Dates
 
 * Final papers due: **Thursday, July 25**
 
-* Workshop: TBD (September 22, 23, 24, or 28)
+* Workshop: **Saturday, September 28** (after ICFP)
