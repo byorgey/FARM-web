@@ -6,4 +6,4 @@ Workshop Chair: [Paul Hudak](http://haskell.cs.yale.edu/people/paul-hudaks-home-
 
 Program Chair: [Conal Elliott](http://conal.net/)
 
-Publicity chair: [Brent Yorgey](http://www.cis.upenn.edu/~byorgey/)
+Publicity Chair: [Brent Yorgey](http://www.cis.upenn.edu/~byorgey/)

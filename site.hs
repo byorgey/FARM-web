@@ -42,8 +42,9 @@ main = hakyllWith config $ do
                 >>= relativizeUrls
 
 subSections = [ ("about", "about.markdown")
-              , ("cfp", "cfp.markdown")
               , ("dates", "dates.markdown")
+              , ("cfp", "cfp.markdown")
+              , ("committee", "committee.markdown")
               , ("organization", "organization.markdown")
               ]
 
