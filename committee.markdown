@@ -9,8 +9,8 @@ title: Program Committee
 * George Giorgidze (University of Tübingen)
 * Paul Hudak (Yale University)
 * José Pedro Magalhães (University of Oxford)
-* Alex McLean (ICSRiM)
+* Alex McLean (University of Leeds)
 * John Peterson (Western State Colorado University)
 * Michael Sperber (Active Group)
-* Henning Thielemann (Martin-Luther-Universität Halle-Wittenberg)
+* Henning Thielemann
 * Brent Yorgey (University of Pennsylvania)
