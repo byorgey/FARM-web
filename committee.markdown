@@ -2,7 +2,7 @@
 title: Program Committee
 ---
 
-* Daniel Cukier (AgileAndArt)
+* Daniel Cukier (University of São Paulo)
 * Conal Elliott (Tabula) (chair)
 * Kathleen Fisher (Tufts University)
 * Richard Gabriel (IBM Research)
