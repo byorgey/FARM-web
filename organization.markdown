@@ -2,7 +2,7 @@
 title: Workshop Organization
 ---
 
-Workshop Chair: [Paul Hudak](http://haskell.cs.yale.edu/people/paul-hudaks-home-page/)
+Workshop Chair: [Paul Hudak](http://haskell.cs.yale.edu/people/paul-hudak/)
 
 Program Chair: [Conal Elliott](http://conal.net/)
 
