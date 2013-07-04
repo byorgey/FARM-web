@@ -2,12 +2,19 @@
 title: Important Dates
 ---
 
-* Submissions due: [**Friday, June 14**, 23:59 UTC-11 (American Samoa time)][time]
+* Paper submissions due: [**Friday, 14 June**, 23:59 UTC-11 (American Samoa time)][papertime]
 
-* Author notification: **Thursday, July 11**
+* Author notification for papers: **Thursday, 11 July**
 
-* Final papers due: **Thursday, July 25**
+* Final papers due: **Thursday, 25 July**
 
-* Workshop: **Saturday, September 28** (after ICFP)
+* Demonstration proposals due: [**Wednesday, 31 July 2013**, 18:00 EDT (UTC-4)][demotime]
 
-[time]: http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+submissions+due&iso=20130614T2355&p1=1033
+* Author notification for demos: **Monday, 5 August 2013**
+
+* Workshop: **Saturday, 28 September** (after ICFP)
+
+[papertime]: http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+submissions+due&iso=20130614T2355&p1=1033
+
+[demotime]: http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+demo+proposals+due&iso=20130731T18&p1=198
+

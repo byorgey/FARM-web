@@ -44,6 +44,7 @@ main = hakyllWith config $ do
 subSections = [ ("about", "about.markdown")
               , ("dates", "dates.markdown")
               , ("cfp", "cfp.markdown")
+              , ("cfd", "cfd.markdown")
               , ("committee", "committee.markdown")
               , ("organization", "organization.markdown")
               ]
