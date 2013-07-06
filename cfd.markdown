@@ -15,3 +15,11 @@ accepted papers, and will not be published as part of the formal
 proceedings, but can be a great way to show off interesting work and
 get feedback from other workshop participants.  A demonstration slot
 could be a particularly good way to get feedback on work-in-progress.
+
+A demo proposal should consist of a 1 page abstract, in PDF format,
+explaining the proposed content of the demonstration and why it would be
+of interest to the attendees of FARM. Proposals will be judged on
+interest and relevance to the stated goals and themes of the workshop.
+
+Submissions can be made via EasyChair at
+<https://www.easychair.org/conferences/?conf=farm2013>.
