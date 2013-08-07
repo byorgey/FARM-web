@@ -10,9 +10,8 @@ title: Accepted papers and demos
   experiences* (Demo)
 * Guillaume Baudart, Louis Mandel and Marc Pouzet. *Programming Mixed
   Music in ReactiveML*
-* Jean Bresson, Raphael Foulon and Marco Stroppa. *Reduction of Event
-  Sequences and Generation of Transition Controllers for Sound
-  Synthesis*
+* Jean Bresson, Raphael Foulon and Marco Stroppa. *Reduction as a
+  Transition Controller for Sound Synthesis Events*
 * Kelsey D'Souza. *PySTEMM - A STEM Learning Tool for Exploring and
   Building Executable Concept Models* (Demo)
 * Andy Gill and Brent A. Yorgey. *Functional active animation* (Demo)
