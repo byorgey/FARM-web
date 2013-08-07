@@ -23,7 +23,8 @@ title: Accepted papers and demos
   programing of (musical) time and space*
 * David Janin and Florent Berthaut. *LiveTuiles for tiled composition
   of audio patterns* (Demo)
-* Thomas Jordan. *Demo proposal* (Demo)
+* Thomas Jordan. *Spontaneous Musical Explorations of Visible
+Symmetric Structures* (Demo)
 * Hendrik Vincent Koops, José Pedro Magalhães and W. Bas de Haas. *A
   Functional Approach To Automatic Melody Harmonisation*
 * José Pedro Magalhães, Bas De Haas, Gijs Bekenkamp, Dion ten Heggeler
