@@ -12,6 +12,8 @@ title: Important Dates
 
 * Author notification for demos: **Monday, 5 August 2013**
 
+* Early registration deadline: **Thursday, 22 August 2013**
+
 * Workshop: **Saturday, 28 September** (after ICFP)
 
 [papertime]: http://www.timeanddate.com/worldclock/fixedtime.html?msg=FARM+submissions+due&iso=20130614T2355&p1=1033
